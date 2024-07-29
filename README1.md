@@ -1,6 +1,6 @@
 # DSI-Automation
 
-This repository is used for establishing connection into PostgreSQL database. After that, the queries are executed to retrieve the desired table data. The retrieved data is formatted into CSV format and the resulting CSV files are uploaded to S3 bucket.this is testing code.testing pr.
+This repository is used for establishing connection into PostgreSQL database. After that, the queries are executed to retrieve the desired table data. The retrieved data is formatted into CSV format and the resulting CSV files are uploaded to S3 bucket.this is testing code.testing pr.adding test-2
 
 ## Repository Contains
 
